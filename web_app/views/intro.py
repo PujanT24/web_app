@@ -2,6 +2,8 @@ import streamlit as st
 import backend
 
 st.title("City Budget of Philadelphia")
+st.divider()
+
 
 st.markdown("I made this website to show the people living in Philly exactly how the city's money is being handled. It removes the mystery of government spending so everyday citizens can understand it. ")
 

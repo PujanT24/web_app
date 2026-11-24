@@ -10,13 +10,13 @@ st.markdown("")
 
 st.header("What is budget?")
 st.write("A budget is a financial plan that estimates expected income and expenses over a specific period of time. It acts as a roadmap to manage resources,control spending, and achieve short- or long-term goals.")
-st.write("Implementing the city budget is a yearly process where mayor work with every department to review and draft a budget for the next fiscal year based on how much each categories need it. The Mayor presents that budget to the city council for approval. Participation for the public is also an important part of the budgeting process and it is encouraged to see if that budget is covering the needs of our community.  ")
+st.write("Implementing the city budget is a yearly process where mayors work with every department to review and draft a budget for the next fiscal year based on how much each categories need it. The Mayor presents that budget to the city council for approval. Participation for the public is also an important part of the budgeting process and it is encouraged to see if that budget is covering the needs of our community.  ")
 
 st.header("Roles and Responsibility")
-st.write("Every year, Philadelphia puts together a financial plan to keep the city running from July 1st through June 30th. The process starts with the Mayor collaborating with city departments to map out spending priorities, but it takes a team effort, including everyday residents to make sure the final plan truly serves the community. ")
-st.write("• The Mayor (Executive Role): Takes the lead by drafting the initial plan and handing it over to the City Council.")
-st.write("• The City Council (Legislative Role): Reviews the proposal, listens to what residents have to say, makes adjustments where needed, and votes to officially approve it. ")
-st.write("• The Community (Public Role): Holds the real power by electing city leaders and speaking up during public hearings or reaching out to officials directly.")
+st.write("Every year  Philadelphia put together a financial plan to run the city from July 1st through June 30th. The process collaborates with the departments of the city to map out the spending priorities, but it takes everyone’s effort, including residents to make sure the final plan that truly serves the city. ")
+st.write("• The Mayor (Executive Role): The leader of drafting the initial plan and had it over to the city council. ")
+st.write("• The City Council (Legislative Role):Reviews the proposal, listens to what residents wants to say, make adjustments where its needed, and votes to approve it.  ")
+st.write("• The Community (Public Role): They elect city leaders and speak up during public hearings or reach out to officials directly. ")
 
 st.header("Funding Sources")
 st.write("By law, Philadelphia must balance its budget so that spending never exceeds its income. The city relies on three main funding streams:")

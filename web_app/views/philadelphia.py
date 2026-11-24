@@ -3,6 +3,7 @@ import backend
 
 
 st.title("City Budget of Philadelphia")
+st.divider()
 st.header("About Philadelphia")
 
 st.markdown("Founded by William Penn in 1682, Philadelphia stands as one of America’s most historic and vibrant cities. As the nation's early capital and the birthplace of both the Declaration of Independence and the U.S. Constitution, Philly has always played a central role in the American story.")
